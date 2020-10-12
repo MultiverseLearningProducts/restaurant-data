@@ -259,7 +259,60 @@
     },
     {
         "name": "Cafe Monico",
-        "image": "https://media.timeout.com/images/103720815/1372/772/image.jpg"
+        "image": "https://media.timeout.com/images/103720815/1372/772/image.jpg",
+        "menu": [
+            {
+                "title": "Mains",
+                "items": [
+                    {
+                        "name": "Parnip Soup",
+                        "price": 6.00
+                    },
+                    {
+                        "name": "Chicken Liver Parfait",
+                        "price": 6.00
+                    },
+                    {
+                        "name": "Dill Cured Salmon",
+                        "price": 10.00
+                    }
+                ]
+            },
+            {
+                "title": "Sunday Brunch",
+                "items":[
+                    {
+                        "name": "Croissant",
+                        "price": 4.00
+                    },
+                    {
+                        "name": "Egg Royal",
+                        "price": 13.00
+                    },
+                    {
+                        "name": "Full English",
+                        "price": 12.00
+                    }
+                ]
+            },
+            {
+                "title": "Desserts",
+                "items":[
+                    {
+                        "name": "Sticky Toffee Pudding",
+                        "price": 7.00
+                    },
+                    {
+                        "name": "Cheesecake",
+                        "price": 7.00
+                    },
+                    {
+                        "name": "Profiteroles",
+                        "price": 8.00
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Impact crator",
