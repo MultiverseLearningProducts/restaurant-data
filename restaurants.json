@@ -190,7 +190,72 @@
     },
     {
         "name": "Bob Bob Ricard",
-        "image": "https://media.timeout.com/images/103717078/1372/772/image.jpg"
+        "image": "https://media.timeout.com/images/103717078/1372/772/image.jpg",
+        "menus": [
+            {
+                "title": "Waffle",
+                "items": [
+                    {
+                        "name": "Plain Waffle & Seasonal Berries",
+                        "price": 12
+                    },
+                    {
+                        "name": "Strawberry Waffle & Crispy Bacon",
+                        "price": 12
+                    },
+                    {
+                        "name": "Truffle Waffle & Gold Paper",
+                        "price": 16.50
+                    },
+                    {
+                        "name": "Matcha Waffle & Vanilla Ice Cream",
+                        "price": 15.50
+                    }
+                ]
+            },
+            {
+                "title": "Dessert",
+                "items": [
+                    {
+                        "name": "Chocolate Truffles",
+                        "price": 4
+                    },
+                    {
+                        "name": "Rice Pudding",
+                        "price": 8
+                    },
+                    {
+                        "name": "Flaming Creme Brulee",
+                        "price": 12.50
+                    },
+                    {
+                        "name": "Cloudberry Pavlova",
+                        "price": 10
+                    },
+                    {
+                        "name": "Seasonal Fruit",
+                        "price": 15.30
+                    }
+                ]
+            },
+            {
+                "title": "Oysters",
+                "items": [
+                    {
+                        "name": "Jersey Rock Oysters",
+                        "price": 9
+                    },
+                    {
+                        "name": "Baked Oysters",
+                        "price": 8
+                    },
+                    {
+                        "name": "Brezhnev Oysters",
+                        "price": 10
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Cafe Monico",
