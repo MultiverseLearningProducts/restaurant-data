@@ -186,7 +186,54 @@
     },
     {
         "name": "Blanchette East",
-        "image": "https://media.timeout.com/images/103717157/1372/772/image.jpg"
+        "image": "https://media.timeout.com/images/103717157/1372/772/image.jpg",
+        "menus": [
+            {
+                "title": "A La Carte",
+                "items": [
+                    {
+                        "name": "Moules Marini&#232;re",
+                        "price": 12.50
+                    },
+                    {
+                        "name": "Lemon sole, sauce grenobloise",
+                        "price": 26.00
+                    },
+                    {
+                        "name": "Turbot, BBQ leeks, fennel &#224; la Lyonnaise",
+                        "price": 24
+                    },
+                    {
+                        "name": "Saut&#232;ed Madagascan prawn, fennel relish, pernod",
+                        "price": 29
+                    },
+                    {
+                        "name": "Corn fed chicken breast, baby carrots, peas, grelot & Girolles",
+                        "price": 15.50
+                    },
+                    {
+                        "name": "Braised lamb shoulder, anchovy, resemary, soubise sauce",
+                        "price": 16.50
+                    },
+                    {
+                        "name": "Chateaubriand, celeriac mousseline, sauce diable",
+                        "price": 36.00
+                    },
+                    {
+                        "name": "Frites & B&#232;arnaise",
+                        "price": 4.00
+                    },
+                    {
+                        "name": "Green bean salad, aged comt&#232;, shallots, walnut dressing",
+                        "price": 7.25
+                    },
+                    {
+                        "name": "Mixed leaf salad",
+                        "price": 4.00
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Bob Bob Ricard",
