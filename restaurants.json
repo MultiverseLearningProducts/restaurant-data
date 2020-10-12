@@ -194,7 +194,59 @@
     },
     {
         "name": "Cafe Monico",
-        "image": "https://media.timeout.com/images/103720815/1372/772/image.jpg"
+        "image": "https://media.timeout.com/images/103720815/1372/772/image.jpg",
+        "menus": [
+            {
+                "title": "Mains",
+                "items": [
+                    {
+                        "name": "Omelette",
+                        "price": 11.00
+                    },
+                    {
+                        "name": "Fish & Chips",
+                        "price": 16.00
+                    },
+                    {
+                        "name": "Lemon Sole",
+                        "price": 19.00
+                    },
+                    {
+                        "name": "Spaghetti Carbonara",
+                        "price": 16.00
+                    },
+                    {
+                        "name": "7oz Rump Steak",
+                        "price": 17.00
+                    }
+                ]
+            },
+            {
+                "title": "Starters",
+                "items": [
+                    {
+                        "name": "Parsnip Soup",
+                        "price": 6.00
+                    },
+                    {
+                        "name": "Prawn Cocktail",
+                        "price": 9.00
+                    },
+                    {
+                        "name": "Chicken Liver Parfait",
+                        "price": 6.00
+                    },
+                    {
+                        "name": "Calamari Fritti",
+                        "price": 9.00
+                    },
+                    {
+                        "name": "Dill Cured Salmon",
+                        "price": 10.00
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Impact crator",
