@@ -379,7 +379,7 @@
     {
         "name": "Cafe Monico",
         "image": "https://media.timeout.com/images/103720815/1372/772/image.jpg",
-        "menu": [
+        "menus": [
             {
                 "title": "Mains",
                 "items": [
